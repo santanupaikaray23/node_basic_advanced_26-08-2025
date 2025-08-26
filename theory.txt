@@ -1,0 +1,6 @@
+Node.js is an open source service-side runtime environment build on chrome's V8 javascript engine.
+
+Node.js can be used to build different types of applications such as command line, web application,
+chat application and rest APIS.
+
+VIDEO COMPLETED: 56
