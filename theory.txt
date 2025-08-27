@@ -13,6 +13,23 @@ Null,
 Objects,
 Functions
 
+Module types
+-------------
+1. core Modules
+2. Local Modules
+3. Third party Modules
+
+Modules.exports
+-----------------
+it is a special object which is included in every javascript file in node js application by default.
+
+module - variable the represents the current module
+
+exports - is an object that will be exposed as module
+ 
+ module.exports = "Hello world"
+
+
 
 
 VIDEO COMPLETED: 56
